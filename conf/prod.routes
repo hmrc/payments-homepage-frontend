@@ -1,3 +1,4 @@
 # Add all the application routes to the app.routes file
-->         /payments-homepage-frontend              app.Routes
-->         /                          health.Routes
+#todo, the base url won't be payments-homepage-frontend, update this when design decide
+->         /payments-homepage-frontend      app.Routes 
+->         /                                health.Routes
